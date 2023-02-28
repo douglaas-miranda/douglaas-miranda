@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá seja bem vindo ao meu GitHub ! 
+
+### Me chamo Douglas Miranda, sou estudante, gamer e um entusiasta da tecnologia !
+
 
 <!--
 **douglaas-miranda/douglaas-miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
